@@ -1,9 +1,9 @@
+![Banner Image](https://i.ibb.co/9HqRLq1/20231119-043304-0000.png)
+
 ### Hi there 👋 
+###I amd Sumaiya Sinja
 
 <!--
-**sumaiyasinja/sumaiyasinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning MERN stack
+- 📫 How to reach me: ![email](sumaiyasinja.gmail.com)
+
+##  A Short Description of My Work <br>
+
+I am a front-end web developer who primarily focuses on forntened web application development. I use ReactJS, JavaScript, tailwind, expressjs and mongodb to create basic frontend of web applications with a little support of the backend. 
+
+Additionally, I am also able to design good-looking web design for web applications. I am eager to learn about the various technologies and applications within these fields.
+
+Here are some specific examples of my work:
+
+* Developed a website that allows users to read premium and free news articles with jwt token validation.
+* Created an app that enables users to track their financial transactions through stripe.
+* Built an event management web app and a brand car shop web app with jwt cookies verification.
+
+I am passionate about continuous learning and development, striving to become a skilled and innovative software engineer.  <br>
+
 ##My Skills <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,6 +42,11 @@ Here are some ideas to get you started:
 ##My State <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=iceberg)](https://git.io/streak-stats)
+
+##Top Language  <br>
+![top](https://api.githubtrends.io/user/svg/sumaiyasinja/langs?time_range=one_year&theme=dark)
+
+
 
 
 
