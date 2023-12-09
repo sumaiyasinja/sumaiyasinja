@@ -21,12 +21,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-##My State
-<p align="center">
-  <a href="https://skillicons.dev">
+##My State <br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=iceberg)](https://git.io/streak-stats)
-  </a>
-</p>
 
 
 
