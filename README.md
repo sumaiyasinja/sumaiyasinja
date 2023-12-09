@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **sumaiyasinja/sumaiyasinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,tailwind,react,express,mongodb,javascript" />
+  </a>
+</p>
+
+##My State
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=iceberg)](https://git.io/streak-stats)
+
+
+
+
+
 
