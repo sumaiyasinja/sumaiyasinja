@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ##My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,tailwind,react,express,mongodb,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,mongodb,javascript,github,boorstrap" />
   </a>
 </p>
 
