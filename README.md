@@ -1,7 +1,7 @@
 ![Banner Image](https://i.ibb.co/9HqRLq1/20231119-043304-0000.png)
 
 ### Hi there 👋 
-###I amd Sumaiya Sinja
+### I am Sumaiya Sinja.
 
 <!--
 
@@ -16,7 +16,8 @@
 -->
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me: ![email](sumaiyasinja.gmail.com)
+- 📫 How to reach me: [email](mailto:sumaiyasinja@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumaiyasinja/) | [lijkendin](https://linkedin.com/in/sumaiyasinja/)
+
 
 ##  A Short Description of My Work <br>
 
