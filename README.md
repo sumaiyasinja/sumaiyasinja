@@ -16,8 +16,7 @@
 -->
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me: [email](mailto:sumaiyasinja@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumaiyasinja/) | [lijkendin](https://linkedin.com/in/sumaiyasinja/)
-
+- 📫 How to reach me: [email](mailto:sumaiyasinja@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumaiyasinja/) 
 
 ##  A Short Description of My Work <br>
 
