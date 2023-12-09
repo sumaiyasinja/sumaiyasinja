@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 ##My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,mongodb,javascript,github,boorstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,mongodb,javascript,github,bootstrap" />
   </a>
 </p>
 
 ##My State
+<p align="center">
+  <a href="https://skillicons.dev">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=iceberg)](https://git.io/streak-stats)
+  </a>
+</p>
 
 
 
