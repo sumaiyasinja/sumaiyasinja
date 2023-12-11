@@ -2,6 +2,8 @@
 
 ### Hi there 👋 
 ### I am Sumaiya Sinja.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyasinja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
 
 <!--
 
