@@ -15,24 +15,24 @@
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning the MERN stack development.
 - 📫 How to reach me: [email](mailto:sumaiyasinja@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumaiyasinja/) 
 
 ##  A Short Description of My Work <br>
 
-I am a front-end web developer who primarily focuses on forntened web application development. I use ReactJS, JavaScript, tailwind, expressjs and mongodb to create basic frontend of web applications with a little support of the backend. 
+I am a front-end web developer who primarily focuses on front-end web application development. I use ReactJS, JavaScript, tailwind, expressjs and mongodb to create basic frontend of web applications with a little support of the backend. 
 
 Additionally, I am also able to design good-looking web design for web applications. I am eager to learn about the various technologies and applications within these fields.
 
 Here are some specific examples of my work:
 
-* Developed a website that allows users to read premium and free news articles with jwt token validation.
-* Created an app that enables users to track their financial transactions through stripe.
-* Built an event management web app and a brand car shop web app with jwt cookies verification.
+* Developed a website that allows users to read premium and free news articles with JWT token validation.
+* Created an app that enables users to track their financial transactions through Stripe.
+* Built an event management web app and a brand car shop web app with JWT cookies verification.
 
 I am passionate about continuous learning and development, striving to become a skilled and innovative software engineer.  <br>
 
-## My Skills <br>
+## My Skills <br> <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,mongodb,javascript,github,bootstrap" />
