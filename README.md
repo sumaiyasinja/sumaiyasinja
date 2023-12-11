@@ -1,10 +1,15 @@
 ![Banner Image](https://i.ibb.co/9HqRLq1/20231119-043304-0000.png)
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sumaiya Sinja</h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Frontend+Devoloper;Aspiring+Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 
-### Hi there 👋! I am Sumaiya Sinja.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyasinja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
 
 
 <!--
+### Hi there 👋! I am Sumaiya Sinja.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyasinja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
