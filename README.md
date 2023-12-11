@@ -46,8 +46,9 @@ I am passionate about continuous learning and development, striving to become a 
 
 ## Top Language  <br>
 ![top](https://api.githubtrends.io/user/svg/sumaiyasinja/langs?time_range=one_year&theme=dark)
+
 ##  GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=farvez999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sumaiyasinja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
