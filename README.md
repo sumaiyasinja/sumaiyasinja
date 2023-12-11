@@ -49,15 +49,17 @@ I am passionate about continuous learning and development, striving to become a 
 
 ## My State <br>
 
+![Sinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumaiyasinja&theme=nord&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=nord)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumaiyasinja&theme=nord&show_icons=true)
+
  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasinja&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
-![top](https://api.githubtrends.io/user/svg/sumaiyasinja/langs?time_range=one_year&theme=dark)
 
 
-Thanks for going through my Portfolio. All rights reserved by Sumaiya Sinja @2023
 
+Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja ![Year](https://img.shields.io/badge/year-2023-blue)
+.
 
 
 
