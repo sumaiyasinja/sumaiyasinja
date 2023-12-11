@@ -48,8 +48,8 @@ I am passionate about continuous learning and development, striving to become a 
 
 ##  GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=sumaiyasinja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Thanks for going through my Portfolio. All rights reserved by Sumaiya Sinja @2023
+<br/>
+Thanks for going through my Portfolio. All rights reserved by Sumaiya Sinja @2023
 
 
 
