@@ -50,6 +50,8 @@ I am passionate about continuous learning and development, striving to become a 
 ## My State <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=iceberg)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumaiyasinja&theme=catppuccin_mocha&show_icons=true)
+ 
 
 ![top](https://api.githubtrends.io/user/svg/sumaiyasinja/langs?time_range=one_year&theme=dark)
 
