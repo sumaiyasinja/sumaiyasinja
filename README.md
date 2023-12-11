@@ -32,14 +32,14 @@ Here are some specific examples of my work:
 
 I am passionate about continuous learning and development, striving to become a skilled and innovative software engineer.  <br>
 
-##My Skills <br>
+## My Skills <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,mongodb,javascript,github,bootstrap" />
   </a>
 </p>
 
-##My State <br>
+## My State <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=iceberg)](https://git.io/streak-stats)
 
