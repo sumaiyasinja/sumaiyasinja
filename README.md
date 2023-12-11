@@ -43,7 +43,7 @@ I am passionate about continuous learning and development, striving to become a 
 ## My State <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=iceberg)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasinja&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Language  <br>
 ![top](https://api.githubtrends.io/user/svg/sumaiyasinja/langs?time_range=one_year&theme=dark)
