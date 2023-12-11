@@ -3,13 +3,13 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Frontend+Devoloper;Aspiring+Full+Stack+Web+Developer;Continious+Learner&center=true&width=500&height=50"></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyasinja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
 
 
 <!--
 ### Hi there 👋! I am Sumaiya Sinja.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyasinja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
