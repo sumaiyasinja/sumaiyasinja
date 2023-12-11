@@ -57,9 +57,9 @@ I am passionate about continuous learning and development, striving to become a 
 
 
 
-
-Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja ![Year](https://img.shields.io/badge/year-2023-blue)
-.
+<hr/>
+<p align="center">Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja @2023.
+</p>
 
 
 
