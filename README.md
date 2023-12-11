@@ -10,7 +10,9 @@
 
 <!--
 ### Hi there 👋! I am Sumaiya Sinja.
-
+##  GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=sumaiyasinja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -51,9 +53,7 @@ I am passionate about continuous learning and development, striving to become a 
 
 ![top](https://api.githubtrends.io/user/svg/sumaiyasinja/langs?time_range=one_year&theme=dark)
 
-##  GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=sumaiyasinja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br/>
+
 Thanks for going through my Portfolio. All rights reserved by Sumaiya Sinja @2023
 
 
