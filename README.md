@@ -1,7 +1,6 @@
 ![Banner Image](https://i.ibb.co/9HqRLq1/20231119-043304-0000.png)
 
-### Hi there 👋 
-### I am Sumaiya Sinja.
+### Hi there 👋! I am Sumaiya Sinja.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyasinja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
