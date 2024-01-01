@@ -39,7 +39,7 @@ I am passionate about continuous learning and development, striving to become a 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=nord)](https://git.io/streak-stats)
 
 <hr/>
-<p align="center">Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja @2023.
+<p align="center">Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja @2024.
 </p>
 
 
