@@ -34,9 +34,16 @@ I am passionate about continuous learning and development, striving to become a 
 
 ## My State <br>
 
-![Sinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumaiyasinja&theme=nord&show_icons=true)
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasinja&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=nord)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiyasinja&theme=nord&show_icons=true" width="45%" height= '200'/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumaiyasinja&theme=nord" width="45%" height= '200'/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasinja&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" width="40%" />
+</p>
+
+
 
 <hr/>
 <p align="center">Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja @2024.
