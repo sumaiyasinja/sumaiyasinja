@@ -46,7 +46,7 @@ I am passionate about continuous learning and development, striving to become a 
 
 
 <hr/>
-<p align="center">Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja @2024.
+<p align="center">Thank you for reviewing my portfolio. All rights reserved by Sumaiya Sinja @2025.
 </p>
 
 
